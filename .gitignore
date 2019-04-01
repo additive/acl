@@ -1,0 +1,23 @@
+# Packages
+node_modules/
+.git/
+
+# Generated
+.DS_Store*
+ehthumbs.db
+Thumbs.db
+*.swp
+Desktop.ini
+._*
+Thumbs.db
+cache/
+caches/
+tmp/
+dist/
+logs/
+log/
+
+# Config
+*.config.js
+.*rc.json
+.*rc

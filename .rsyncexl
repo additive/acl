@@ -1,0 +1,13 @@
+.*/
+**/cache
+**/tmp
+**/logs
+node_modules/
+.map
+*.ini
+*.config.js
+package-lock.json
+.DS_Store
+._*
+Thumbs.db
+*~

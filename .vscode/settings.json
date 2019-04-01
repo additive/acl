@@ -1,0 +1,11 @@
+{
+  "markdown.extension.preview.autoShowPreviewToSide": false,
+  "files.eol": "\n",
+  "cSpell.words": [
+    "pbcopy",
+    "rsyncexcludes",
+    "rsyncexl",
+    "rsyncsources",
+    "rsyncsrc"
+  ]
+}
