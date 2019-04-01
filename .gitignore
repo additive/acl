@@ -19,5 +19,3 @@ log/
 
 # Config
 *.config.js
-.*rc.json
-.*rc
