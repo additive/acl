@@ -11,8 +11,8 @@ const explorerResult = explorer.searchSync()
 const config = explorerResult.config
 
 // modules
-const Packager = require('../modules/packager')
-const Uploader = require('../modules/uploader')
+const Packager = require('../src/packager')
+const Uploader = require('../src/uploader')
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 // Program: base

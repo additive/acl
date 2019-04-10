@@ -4,7 +4,7 @@ This package provides some CLI tools for use with some ADDITIVE projects.
 
 ## Install
 
-`npm install --save-dev git@.....`
+`npm install --save-dev @additive/colt`
 
 ## Config
 
@@ -30,7 +30,7 @@ or add options via the config file:
 {
   packager: {
     files: ["index.js"],
-    folders: ["modules/"],
+    folders: ["src/"],
     globs: ["package*.json", ".*/"],
     destination: "tmp",
     filename: "additive-backup"

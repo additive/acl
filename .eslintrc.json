@@ -11,13 +11,15 @@
   },
   "globals": {
     "$": true,
-    "jQuery": true
+    "jQuery": true,
+    "jest/globals": true
   },
-  "plugins": ["prettier"],
-  "extends": ["eslint:recommended", "prettier"],
+  "plugins": ["prettier", "jest"],
+  "extends": ["eslint:recommended", "prettier", "plugin:jest/recommended"],
   "rules": {
     "prettier/prettier": "error",
     "no-console": "off",
-    "no-unused-vars": "warn"
+    "no-unused-vars": "warn",
+    "no-control-regex": "off"
   }
 }

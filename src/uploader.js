@@ -82,8 +82,7 @@ module.exports = class Uploader {
     if (!this.rsync) return false
 
     const command = this.rsync.command()
-    logger.empty()
-    logger.log(
+    console.log(
       'Use password:',
       chalk.bold.hex('#FFFFFF').bgBlue(this.configObj.pass)
     )
