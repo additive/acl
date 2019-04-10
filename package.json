@@ -1,6 +1,6 @@
 {
   "name": "@additive/colt",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "ADDITIVE Command Line Tool (CoLT) to make development in-house easier!",
   "homepage": "https://www.additive-net.de/",
   "bugs": "https://github.com/additive/colt/issues",
